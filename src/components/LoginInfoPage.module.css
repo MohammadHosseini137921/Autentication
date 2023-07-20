@@ -1,0 +1,46 @@
+.infopagecontainer {
+    width : 100% ;
+    height : 180px ;
+    display : flex ;
+    flex-direction : column ;
+    justify-content : flex-start ;
+    align-items : flex-start ;
+    direction : rtl ;
+    margin-top : 10px ;
+}
+.usernotif {
+    width : 80% ;
+    height : 20px ;
+    margin-top : 10px ;
+    padding : 0px 10% ;
+    font-size : 14px ;
+    color : rgb(185, 185, 185) ;
+}
+.panelmenu {
+    width : 90% ;
+    height : 125px ;
+    display : flex ;
+    flex-direction : row ;
+    justify-content : flex-start ;
+    align-items : flex-start ;
+    padding : 10px 0px ;
+}
+.logoutbtn , .chngprofile , .totalbuy {
+    width : 100px ;
+    height : 50px ;
+    background-color : rgb(66, 66, 66) ;
+    display : flex ;
+    flex-direction : column ;
+    justify-content : space-around ;
+    align-items : center ;
+    border-radius : 5px ;
+    text-decoration : none ;
+    color :rgb(185, 185, 185) ;
+    font-size : 11px ;
+}
+.chngprofile {
+    margin : 0px 10px ;
+}
+.totalbuy {
+    width : 200px ;
+}

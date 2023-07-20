@@ -1,0 +1,49 @@
+.loginform {
+    width : 100% ;
+    height : 180px ;
+    display : flex ;
+    flex-direction : column ;
+    justify-content : flex-start ;
+    align-items : flex-start ;
+    direction : rtl ;
+    margin-top : 10px ;
+}
+.usernamepart , .passowrdpart , .submitbtnpart {
+    width : 100% ;
+    height : 35px ;
+    display : flex ;
+    flex-direction : row ;
+    justify-content : flex-start ;
+    align-items : center ;
+    margin-top : 20px ;
+    color : rgb(185, 185, 185) ;
+}
+.submitbtnpart {
+    justify-content : flex-end ;
+    margin-top : 30px ;
+}
+.usernamelabel , .passwordlabel {
+    margin : 0px 10px ;
+}
+.usernameinput , .passwordinput {
+    width : 380px ;
+    height : 40px ;
+    margin-right : 10px ;
+    outline : none ;
+    background-color : rgb(66, 66, 66) ;
+    border : none ;
+    border-radius : 2px ;
+    padding : 0px 10px ;
+    direction : ltr ;
+    color : rgb(185, 185, 185) ;
+}
+.passwordinput {
+    margin-right : 20px ;
+}
+.submitbtn {
+    width : 100px ;
+    height : 35px ;
+    background-color : #747474 ;
+    border : none ;
+    border-radius : 2px ;
+}

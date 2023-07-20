@@ -1,0 +1,13 @@
+.headerdiv {
+    width : 100% ;
+    height : 80px ;
+    background-color : #097e3d ;
+    display : flex ;
+    flex-direction : row ;
+    justify-content : center ;
+    align-items : center ;
+}
+.formtitle {
+    font-family : Tanha ;
+    font-size : 20px ;
+}

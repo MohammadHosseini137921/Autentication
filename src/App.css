@@ -1,0 +1,21 @@
+body {
+  margin : 0px ;
+  padding : 0px ;
+  background-color : rgb(36,36,36,1) ;
+}
+* {
+  font-family : Tanha ;
+  font-size : 13px ;
+}
+.container {
+  width : 100% ;
+  height : 601px ;
+  display : flex ;
+  flex-direction : row ;
+  justify-content : center ;
+  align-items : center ;
+}
+.userform {
+  width : 550px ;
+  height : 300px ;
+}
